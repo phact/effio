@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ec2-m1.medium-spindle",
+    "notes": "EC2 m1.medium single spinning disk",
+    "ignore": false,
+    "device": "/dev/xvdb1",
+    "mountpoint": "/mnt",
+    "filesystem": "ext4",
+    "brand": "Amazon",
+    "series": "HDD",
+    "datasheet": "",
+    "capacity": 450934865920,
+    "rotational": true,
+    "transport": "virtio-scsi",
+    "hba": "xenblock",
+    "media": "Iron",
+    "blocksize": 512,
+    "rpm": 0
+  }
+]
